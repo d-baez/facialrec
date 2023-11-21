@@ -1,2 +1,3 @@
 # facialrec
-facial recognition projects
+facial recognition project 
+in collaboration with @amirasekkouty
