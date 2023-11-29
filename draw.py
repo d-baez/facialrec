@@ -1,7 +1,8 @@
 import cv2 as cv
 import numpy as np
+
 # create blank canvas
-blank = np.zeros((500,500,3), dtype='uint8' )
+blank = np.zeros((500,500,3), dtype='uint8')
 cv.imshow('blank',blank)
 # paint image a certain color
 blank[200:300,300:400] = 0,0,255
